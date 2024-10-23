@@ -131,3 +131,7 @@
     <img src="https://www.vectorlogo.zone/logos/netflix/netflix-icon.svg" alt="Netflix" width="50" height="50"/> 
   </a>
 </p>
+
+<p align="center">
+  <strong>✨ Thanks for visiting my profile! ✨</strong>
+</p>
