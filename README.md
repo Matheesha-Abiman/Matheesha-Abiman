@@ -102,7 +102,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
   </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+  <a href="[https://www.photoshop.com/en](https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg?short_path=d680ce0)" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> 
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
@@ -114,6 +114,7 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50"/> 
   </a>
+
 </p>
 
 ---
