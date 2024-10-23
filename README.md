@@ -24,22 +24,22 @@
 
 <p align="left">
   <strong>🧑‍🎓 I’m currently learning:</strong> 
-  <em>Computer Science and Software Engineering</em>
+  <strong>Computer Science and Software Engineering</strong>
 </p>
 
 <p align="left">
   <strong>💬 Ask me about:</strong> 
-  <em>Software Development, Drawing (Pencil & Watercolor Arts)</em>
+  <strong>Software Development, Drawing (Pencil & Watercolor Arts)</strong>
 </p>
 
 <p align="left">
   <strong>📫 How to reach me:</strong> 
-  <em><a href="mailto:matheeshaabi@gmail.com">matheeshaabi@gmail.com</a></em>
+  <strong><a href="mailto:matheeshaabi@gmail.com">matheeshaabi@gmail.com</a></strong>
 </p>
 
 <p align="left">
   <strong>⚡ Fun fact:</strong> 
-  <em>Call me Abi</em>
+  <strong>Call me Abi</strong>
 </p>
 
 ---
