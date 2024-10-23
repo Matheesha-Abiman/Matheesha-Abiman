@@ -18,8 +18,13 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <p align="left">
-  <strong>🌱 I’m currently learning:</strong> 
-  <em>Java and Software Development Tools</em>
+  <strong>🏫 I’m a:</strong> 
+  <strong>📚 Student at the Institute of Software Engineering (IJSE)</strong>
+</p>
+
+<p align="left">
+  <strong>🧑‍🎓 I’m currently learning:</strong> 
+  <em>Computer Science and Software Engineering</em>
 </p>
 
 <p align="left">
