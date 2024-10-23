@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Matheesha Abiman</h1>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-21-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
+
+---
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Matheesha Abiman </h1>
 <h3 align="center">A passionate computer science student from Sri Lanka, exploring coding and software development</h3>
 
 <p align="center"> 
