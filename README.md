@@ -1,5 +1,5 @@
- <p align="center">
-<img src="https://img.shields.io/badge/Age-21-brightgreen" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-21-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-Software%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
@@ -15,6 +15,7 @@
 </p>
 
 ---
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -117,6 +118,15 @@
 
 ---
 
-<p align="center">
-  <strong>✨ Thanks for visiting my profile! ✨</strong>
+<h3 align="left">For Relax:</h3>
+<p align="left">
+  <a href="https://open.spotify.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="Spotify" width="50" height="50"/> 
+  </a>
+  <a href="https://www.youtube.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="50" height="50"/> 
+  </a>
+  <a href="https://www.netflix.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/netflix/netflix-icon.svg" alt="Netflix" width="50" height="50"/> 
+  </a>
 </p>
