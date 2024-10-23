@@ -7,7 +7,7 @@
 
 ---
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Matheesha Abiman </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Matheesha Abiman </h1>
 <h3 align="center">A passionate computer science student from Sri Lanka, exploring coding and software development</h3>
 
 <p align="center"> 
@@ -15,6 +15,7 @@
 </p>
 
 ---
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <p align="left">
   <strong>🌱 I’m currently learning:</strong> 
