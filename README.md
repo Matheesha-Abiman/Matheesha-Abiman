@@ -135,6 +135,7 @@
 <p align="center">
   <strong>✨ Thanks for visiting my profile! ✨</strong>
 </p>
+
 <h2 align="center">
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
