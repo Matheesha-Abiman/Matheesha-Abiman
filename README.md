@@ -87,6 +87,9 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
   </a>
+  <a href="https://www.canva.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Canva_Logo.png" alt="Canva" width="50" height="50" />
+</a>
 </p>
 
 ---
