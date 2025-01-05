@@ -105,6 +105,9 @@
   <a href="https://www.netflix.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/netflix/netflix-icon.svg" alt="Netflix" width="50" height="50" />
   </a>
+  <a href="https://www.videolan.org/vlc/index.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/VLC_Icon.svg" alt="VLC Media Player" width="50" height="50" />
+  </a>
 </p>
 
 <p align="center">
