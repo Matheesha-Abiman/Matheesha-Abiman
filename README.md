@@ -23,10 +23,15 @@
 </picture>
 
 - 🏫 I’m a **Student at the Institute of Software Engineering (IJSE)**
+  
 - 🧑‍🎓 I’m currently learning **Computer Science and Software Engineering**
+  
 - 🏫 I studied at **St. Aloysius College Galle**
-- 💬 Ask me about **Software Development, Drawing (Pencil & Watercolor Arts)**
+  
+- 💬 Ask me about **Software Development, Creative Visual Design**
+  
 - 📫 How to reach me: **[matheeshaabi@gmail.com](mailto:matheeshaabi@gmail.com)**
+  
 - ⚡ Fun fact: **Call me Abi**
 
 ---
