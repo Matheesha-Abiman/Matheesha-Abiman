@@ -75,6 +75,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
   </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+  </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
   </a>
@@ -99,8 +102,10 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="50" height="50" />
   </a>
+   <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" />
+  </a>
 </p>
-
 
 ---
 
@@ -116,6 +121,7 @@
     <img src="https://www.vectorlogo.zone/logos/netflix/netflix-icon.svg" alt="Netflix" width="50" height="50" />
   </a>
 </p>
+
 
 <p align="center">
   <strong>✨ Thanks for visiting my profile! ✨</strong>
