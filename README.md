@@ -105,7 +105,9 @@
    <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" />
   </a>
+
 </p>
+
 ---
 
 <h3 align="left">For Relax:</h3>
