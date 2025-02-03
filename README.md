@@ -106,11 +106,11 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" />
   </a>
 </p>
-
 ---
 
 <h3 align="left">For Relax:</h3>
 <p align="left">
+  <!-- Existing links -->
   <a href="https://open.spotify.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="Spotify" width="50" height="50" />
   </a>
@@ -120,8 +120,10 @@
   <a href="https://www.netflix.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/netflix/netflix-icon.svg" alt="Netflix" width="50" height="50" />
   </a>
+  <a href="https://www.flickr.com/people/visitlanka/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flickr/flickr-icon.svg" alt="Flickr" width="50" height="50" />
+  </a>
 </p>
-
 
 <p align="center">
   <strong>✨ Thanks for visiting my profile! ✨</strong>
