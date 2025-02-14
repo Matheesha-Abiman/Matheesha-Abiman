@@ -105,6 +105,10 @@
    <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" />
   </a>
+  <a href="https://hibernate.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate" width="50" height="50" />
+</a>
+
 
 </p>
 
