@@ -24,7 +24,7 @@
 
 - 🏫 I’m a **Student at the Institute of Software Engineering (IJSE)**
   
-- 🧑‍🎓 I’m currently learning **Computer Science and Software Engineering**
+- 🧑‍🎓 I’m currently learning **Computer Science**
   
 - 🏫 I studied at **St. Aloysius College Galle**
   
