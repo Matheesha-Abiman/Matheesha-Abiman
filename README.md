@@ -108,6 +108,9 @@
   <a href="https://hibernate.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate" width="50" height="50" />
 </a>
+<a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Google Firebase" width="50" height="50" />
+</a>
 
 
 </p>
