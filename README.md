@@ -134,6 +134,9 @@
   <a href="https://www.flickr.com/people/visitlanka/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flickr/flickr-icon.svg" alt="Flickr" width="50" height="50" />
   </a>
+  <a href="https://www.fiverr.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="Fiverr" width="50" height="50" />
+</a>
 </p>
 
 <p align="center">
