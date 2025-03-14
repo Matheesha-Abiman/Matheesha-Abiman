@@ -114,6 +114,9 @@
 <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="50" height="50" />
 </a>
+<a href="https://canva.com/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" width="50" alt="canva logo"  />
+</a>
   
 </p>
 
