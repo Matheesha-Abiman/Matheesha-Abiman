@@ -59,7 +59,6 @@
   <a href="https://discord.gg/abiman0132" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="50" width="50" />
   </a>
-
 </p>
 
 ---
@@ -120,8 +119,6 @@
 <a href="https://jquery.com/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" width="50" alt="jQuery logo" />
 </a>
-
-  
 </p>
 
 ---
@@ -129,9 +126,9 @@
 <h3 align="left">For Relax:</h3>
 <p align="left">
   <!-- Existing links -->
-  <a href="https://open.spotify.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="Spotify" width="50" height="50" />
-  </a>
+ <a href="https://www.spotify.com/" target="_blank">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height="50" width="50" alt="Spotify logo" />
+</a>
   <a href="https://www.youtube.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="50" height="50" />
   </a>
