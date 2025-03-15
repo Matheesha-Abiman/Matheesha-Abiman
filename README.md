@@ -117,6 +117,10 @@
 <a href="https://canva.com/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" width="50" alt="canva logo"  />
 </a>
+<a href="https://jquery.com/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" width="50" alt="jQuery logo" />
+</a>
+
   
 </p>
 
