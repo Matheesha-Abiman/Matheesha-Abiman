@@ -119,6 +119,9 @@
 <a href="https://jquery.com/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" width="50" alt="jQuery logo" />
 </a>
+  <a href="https://codepen.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="CodePen Logo" width="50" height="50" style="filter: brightness(0) invert(0.6);" />
+</a>
 </p>
 
 ---
