@@ -108,7 +108,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate" width="50" height="50" />
 </a>
 <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Google Firebase" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Google Firebase" width="50" height="50" />
 </a>
 <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="50" height="50" />
