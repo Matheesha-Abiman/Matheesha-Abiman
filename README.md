@@ -110,6 +110,9 @@
 <a href="https://firebase.google.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Google Firebase" width="50" height="50" />
 </a>
+  <a href="https://www.blogger.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/blogger.svg" alt="Blogger" width="50" height="50" />
+</a>
 <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="50" height="50" />
 </a>
