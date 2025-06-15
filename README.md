@@ -6,9 +6,18 @@
 </p>
 
 ---
+<!-- Top SVG Decoration -->
+![Alt text](https://raw.githubusercontent.com/Abbas-Aljuaifari/Abbas-Aljuaifari/c38d1e3b99c75842fd73f8be85a72e5b59b63c45/assets/Bottom_up.svg)
+<!-- My Ticker -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2336BCF7&size=24&width=800&height=60&lines=👋+Hello,+I'm+Matheesha+Abiman!;🚀+Passionate+about+Front-End+Development;💡+Always+Exploring+New+Technologies;🌱+Continuous+Learner+and+Problem-Solver" alt="Typing SVG" />
+  </a>
+  <h4 align="center">A passionate computer science student from Sri Lanka, exploring coding and software development</h4>
+</p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Matheesha Abiman </h1>
-<h3 align="center">A passionate computer science student from Sri Lanka, exploring coding and software development</h3>
+<!-- Header Image -->
+![Alt text](https://raw.githubusercontent.com/Abbas-Aljuaifari/Abbas-Aljuaifari/c38d1e3b99c75842fd73f8be85a72e5b59b63c45/assets/header_.png)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=matheesha-abiman&label=Profile%20views&color=0e75b6&style=flat" alt="matheesha-abiman" /> 
