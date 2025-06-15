@@ -168,6 +168,19 @@
     <img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="Fiverr" width="50" height="50" />
 </a>
 </p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheesha-Abiman&layout=compact&theme=dracula" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheesha-Abiman&theme=dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Matheesha-Abiman&theme=tokyonight&margin-w=15" alt="Trophies" />
+</p>
 
 <p align="center">
   <strong>✨ Thanks for visiting my profile! ✨</strong>
