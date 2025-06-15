@@ -1,3 +1,6 @@
+<!-- Header Image -->
+![Alt text](https://raw.githubusercontent.com/Abbas-Aljuaifari/Abbas-Aljuaifari/c38d1e3b99c75842fd73f8be85a72e5b59b63c45/assets/header_.png)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Age-22-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-Software%20Development-brightgreen" />
@@ -13,9 +16,6 @@
   </a>
   <h4 align="center">A passionate computer science student from Sri Lanka, exploring coding and software development</h4>
 </p>
-
-<!-- Header Image -->
-![Alt text](https://raw.githubusercontent.com/Abbas-Aljuaifari/Abbas-Aljuaifari/c38d1e3b99c75842fd73f8be85a72e5b59b63c45/assets/header_.png)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=matheesha-abiman&label=Profile%20views&color=0e75b6&style=flat" alt="matheesha-abiman" /> 
