@@ -6,8 +6,6 @@
 </p>
 
 ---
-<!-- Top SVG Decoration -->
-![Alt text](https://raw.githubusercontent.com/Abbas-Aljuaifari/Abbas-Aljuaifari/c38d1e3b99c75842fd73f8be85a72e5b59b63c45/assets/Bottom_up.svg)
 <!-- My Ticker -->
 <p align="center">
   <a href="https://git.io/typing-svg">
