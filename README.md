@@ -11,7 +11,7 @@
 <!-- My Ticker -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2336BCF7&size=24&width=800&height=60&lines=👋+Hello,+I'm+Matheesha+Abiman!;🚀+Passionate+about+Front-End+Development;💡+Always+Exploring+New+Technologies;🌱+Continuous+Learner+and+Problem-Solver" alt="Typing SVG" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2336BCF7&size=26&width=850&height=50&lines=👋+Hello,+I'm+Matheesha+Abiman!;🚀+Passionate+about+Front-End+Development;💡+Always+Exploring+New+Technologies;🌱+Continuous+Learner+and+Problem-Solver" alt="Typing SVG" />
   </a>
   <h4 align="center">A passionate computer science student from Sri Lanka, exploring coding and software development</h4>
 </p>
