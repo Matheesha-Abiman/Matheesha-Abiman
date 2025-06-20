@@ -170,6 +170,10 @@
   <a href="https://www.fiverr.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="Fiverr" width="50" height="50" />
 </a>
+ <a href="https://www.videolan.org/vlc/" target="_blank">
+  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/vlc-icon.png" alt="VLC Media Player" width="50" height="50" />
+</a>
+
 </p>
 <table>
   <tr>
