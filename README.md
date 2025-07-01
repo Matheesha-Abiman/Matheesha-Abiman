@@ -148,7 +148,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="CodePen Logo" width="50" height="50" style="filter: brightness(0) invert(0.6);" />
 </a>
   <a href="https://miro.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/miro-3.svg" alt="Miro" width="80" height="80"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/miro-3.svg" alt="Miro" width="50" height="50"/>
 </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
