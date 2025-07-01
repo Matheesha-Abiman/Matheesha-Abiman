@@ -129,6 +129,9 @@
 <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="50" height="50" />
 </a>
+  <a href="http://tomcat.apache.org/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/tomcat.svg" alt="Apache Tomcat" width="50" height="50"/>
+</a>
 <a href="https://canva.com/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" width="50" alt="canva logo"  />
 </a>
@@ -143,6 +146,9 @@
 </a>
   <a href="https://codepen.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="CodePen Logo" width="50" height="50" style="filter: brightness(0) invert(0.6);" />
+</a>
+  <a href="https://miro.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/miro-3.svg" alt="Miro" width="80" height="80"/>
 </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
