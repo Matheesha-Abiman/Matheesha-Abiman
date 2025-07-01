@@ -157,6 +157,13 @@
   <a href="https://spring.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="50" height="50" />
 </a>
+  <a href="https://draw.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="draw.io" width="50" height="50" />
+</a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/adobe-xd.svg" alt="Adobe XD" width="50" height="50" />
+</a>
+
 </p>
 
 ---
