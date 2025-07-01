@@ -66,6 +66,9 @@
   <a href="https://discord.gg/abiman0132" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="50" width="50" />
   </a>
+  <a href="https://app.slack.com/client/T086UEK6ZGX/D087XQP2D96" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="Slack" height="50" width="50" />
+</a>
 </p>
 
 ---
