@@ -117,6 +117,9 @@
    <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" />
   </a>
+  <a href="https://dnschecker.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/@mdi/svg/svg/dns.svg" alt="DNS Checker" width="50" height="50" />
+</a>
   <a href="https://hibernate.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate" width="50" height="50" />
 </a>
@@ -160,15 +163,6 @@
   <a href="https://draw.io/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="draw.io" width="50" height="50" />
 </a>
-<a href="https://dnschecker.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/@mdi/svg/svg/dns.svg" alt="DNS Checker" width="50" height="50" />
-</a>
-<a href="https://dnschecker.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/svg-repo/svgs@master/dns.svg" alt="DNS Checker" width="50" height="50" />
-</a>
-
-
-
 </p>
 
 ---
