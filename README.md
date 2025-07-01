@@ -160,9 +160,14 @@
   <a href="https://draw.io/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="draw.io" width="50" height="50" />
 </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/adobe-xd.svg" alt="Adobe XD" width="50" height="50" />
+<a href="https://dnschecker.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/@mdi/svg/svg/dns.svg" alt="DNS Checker" width="50" height="50" />
 </a>
+<a href="https://dnschecker.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/svg-repo/svgs@master/dns.svg" alt="DNS Checker" width="50" height="50" />
+</a>
+
+
 
 </p>
 
