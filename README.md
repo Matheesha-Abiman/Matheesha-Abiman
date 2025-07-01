@@ -54,9 +54,9 @@
   <a href="https://stackoverflow.com/users/816b75309" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="50" width="50" />
   </a>
-  <a href="https://fb.com/matheeshaabimankankanamge" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" />
-  </a>
+  <a href="https://www.facebook.com/mateesha.abi" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" />
+</a>
   <a href="https://instagram.com/abi_man03" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
   </a>
