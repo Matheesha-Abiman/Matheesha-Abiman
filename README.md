@@ -76,92 +76,92 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
   </a>
   <a href="https://netbeans.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40" />
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40" />
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40" height="40" />
   </a>
   <a href="https://wordpress.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" />
 </a>
    <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" />
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
   </a>
   <a href="https://dnschecker.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/@mdi/svg/svg/dns.svg" alt="DNS Checker" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/@mdi/svg/svg/dns.svg" alt="DNS Checker" width="40" height="40" />
 </a>
   <a href="https://hibernate.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate" width="50" height="50" />
+    <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate" width="40" height="40" />
 </a>
 <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Google Firebase" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Google Firebase" width="40" height="40" />
 </a>
   <a href="https://www.blogger.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/blogger.svg" alt="Blogger" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/blogger.svg" alt="Blogger" width="40" height="40" />
 </a>
 <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="50" height="50" />
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="40" />
 </a>
   <a href="http://tomcat.apache.org/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/tomcat.svg" alt="Apache Tomcat" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tomcat.svg" alt="Apache Tomcat" width="40" height="40"/>
 </a>
 <a href="https://canva.com/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" width="50" alt="canva logo"  />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="40" alt="canva logo"  />
 </a>
   <a href="https://replit.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" height="50" width="50" alt="replit logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" height="40" width="40" alt="replit logo" />
 </a>
 <a href="https://colab.research.google.com/" target="_blank">
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="50" width="50" alt="Google Colab logo" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" width="40" alt="Google Colab logo" />
 </a>
 <a href="https://jquery.com/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" width="50" alt="jQuery logo" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="40" alt="jQuery logo" />
 </a>
   <a href="https://codepen.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="CodePen Logo" width="50" height="50" style="filter: brightness(0) invert(0.6);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="CodePen Logo" width="40" height="40" style="filter: brightness(0) invert(0.6);" />
 </a>
   <a href="https://miro.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/miro-3.svg" alt="Miro" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/miro-3.svg" alt="Miro" width="40" height="40"/>
 </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> </a>
+ <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" />
 </a>
   <a href="https://draw.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="draw.io" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="draw.io" width="40" height="40" />
 </a>
 </p>
 
@@ -171,22 +171,22 @@
 <p align="left">
   <!-- Existing links -->
  <a href="https://www.spotify.com/" target="_blank">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height="50" width="50" alt="Spotify logo" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height="40" width="40" alt="Spotify logo" />
 </a>
   <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="50" height="50" />
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="40" height="40" />
   </a>
   <a href="https://www.netflix.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/netflix/netflix-icon.svg" alt="Netflix" width="50" height="50" />
+    <img src="https://www.vectorlogo.zone/logos/netflix/netflix-icon.svg" alt="Netflix" width="40" height="40" />
   </a>
   <a href="https://www.flickr.com/people/visitlanka/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flickr/flickr-icon.svg" alt="Flickr" width="50" height="50" />
+    <img src="https://www.vectorlogo.zone/logos/flickr/flickr-icon.svg" alt="Flickr" width="40" height="40" />
   </a>
   <a href="https://www.fiverr.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="Fiverr" width="50" height="50" />
+    <img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="Fiverr" width="40" height="40" />
 </a>
  <a href="https://www.videolan.org/vlc/" target="_blank">
-  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/vlc-icon.png" alt="VLC Media Player" width="50" height="50" />
+  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/vlc-icon.png" alt="VLC Media Player" width="40" height="40" />
 </a>
 
 </p>
