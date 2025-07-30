@@ -29,7 +29,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-- 🏫 Student at Institute of Software Engineering (IJSE) and BIT at University of Moratuwa
+- 🏫 Student at Institute of Software Engineering (IJSE) and University of Moratuwa
   
 - 🧑‍🎓 I’m currently learning **Computer Science**
   
