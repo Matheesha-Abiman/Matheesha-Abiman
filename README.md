@@ -163,6 +163,9 @@
   <a href="https://draw.io/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="draw.io" width="40" height="40" />
 </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40" />
+</a>
 </p>
 
 ---
