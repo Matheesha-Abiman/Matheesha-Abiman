@@ -120,7 +120,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheesha-Abiman&layout=compact&theme=dracula" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheesha-Abiman&layout=compact&theme=dracula&cache_seconds=7200" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheesha-Abiman&theme=dark&hide_border=false" alt="GitHub Streak" />
