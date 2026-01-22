@@ -88,8 +88,6 @@
   <a href="https://www.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.netflix.com/" target="_blank"><img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" /></a>
-  <a href="https://www.flickr.com/people/visitlanka/" target="_blank"><img src="https://img.shields.io/badge/Flickr-FF0084?style=for-the-badge&logo=flickr&logoColor=white" /></a>
-  <a href="https://www.fiverr.com/" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
   <a href="https://www.videolan.org/vlc/" target="_blank"><img src="https://img.shields.io/badge/VLC-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white" /></a>
 </p>
 
