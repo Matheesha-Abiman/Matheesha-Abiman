@@ -1,5 +1,4 @@
 <!-- Header Image -->
-![Alt text](https://raw.githubusercontent.com/Abbas-Aljuaifari/Abbas-Aljuaifari/c38d1e3b99c75842fd73f8be85a72e5b59b63c45/assets/header_.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-22-brightgreen" />
@@ -8,7 +7,6 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
 
----
 <!-- My Ticker -->
 <p align="center">
 <a href="https://git.io/typing-svg">
