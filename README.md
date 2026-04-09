@@ -38,8 +38,6 @@
 - 💬 Ask me about **Software Development, Creative Visual Design**
   
 - 📫 How to reach me: **[matheeshaabi@gmail.com](mailto:matheeshaabi@gmail.com)**
-  
-- ⚡ Fun fact: **Call me Abi**
 
 ---
 
