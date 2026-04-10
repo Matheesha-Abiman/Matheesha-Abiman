@@ -9,11 +9,9 @@
 
 <!-- My Ticker -->
 <p align="center">
-<a href="https://git.io/typing-svg">
-  <img align="center"
-       src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2336BCF7&size=26&width=850&height=50&lines=👋+Hello,+I'm+Matheesha+Abiman!;🚀+Passionate+about+Front-End+Development;💡+Always+Exploring+New+Technologies;🌱+Continuous+Learner+and+Problem-Solver;🎨+Interested+in+UI/UX+Design"
-       alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=50&lines=%F0%9F%91%8B+Hello%2C+I'm+Matheesha+Abiman!;%F0%9F%9A%80+Passionate+about+Front-End+Development;%F0%9F%92%A1+Always+Exploring+New+Technologies;%F0%9F%8C%B1+Continuous+Learner+and+Problem-Solver;%F0%9F%82%A8+Interested+in+UI%2FUX+Design" alt="Typing SVG" />
+  </a>
   <h4 align="center">A passionate computer science student from Sri Lanka, exploring coding and software development</h4>
 </p>
 
