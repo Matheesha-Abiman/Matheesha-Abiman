@@ -12,7 +12,6 @@
 </div>
 
 <div align="center">
-  <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=70&lines=%F0%9F%91%8B+Hello%2C+I'm+Matheesha+Abiman!;%F0%9F%9A%80+Passionate+UI%2FUX+Engineer;%F0%9F%8E%A8+Always+Exploring+New+Design+Patterns;%F0%9F%8C%B1+Continuous+Learner+and+Problem-Solver" alt="Typing SVG" />
   </a>
