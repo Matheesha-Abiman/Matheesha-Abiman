@@ -1,23 +1,24 @@
-<!-- Header Image -->
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-23-brightgreen" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20UI%2FUX-brightgreen" />
+  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Matheesha%20Abiman&fontSize=70&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<div align="center">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Matheesha-Abiman?style=social">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Matheesha-Abiman?style=social">
+  <img src="https://komarev.com/ghpvc/?username=matheesha-abiman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br>
+  <img src="https://img.shields.io/badge/Age-23-36BCF7" />
+  <img src="https://img.shields.io/badge/Focus-UI%2FUX%20%26%20Front--End-36BCF7" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
-</p>
+</div>
 
-<!-- My Ticker -->
-<p align="center">
+<div align="center">
+  <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=50&lines=%F0%9F%91%8B+Hello%2C+I'm+Matheesha+Abiman!;%F0%9F%9A%80+Passionate+about+Front-End+Development;%F0%9F%92%A1+Always+Exploring+New+Technologies;%F0%9F%8C%B1+Continuous+Learner+and+Problem-Solver;%F0%9F%82%A8+Interested+in+UI%2FUX+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=70&lines=%F0%9F%91%8B+Hello%2C+I'm+Matheesha+Abiman!;%F0%9F%9A%80+Passionate+UI%2FUX+Engineer;%F0%9F%8E%A8+Always+Exploring+New+Design+Patterns;%F0%9F%8C%B1+Continuous+Learner+and+Problem-Solver" alt="Typing SVG" />
   </a>
-  <h4 align="center">A passionate computer science student from Sri Lanka, exploring coding and software development</h4>
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=matheesha-abiman&label=Profile%20views&color=0e75b6&style=flat" alt="matheesha-abiman" /> 
-</p>
+  <h4 align="center">Software Engineering Undergraduate | Trainee Associate UI/UX Engineer</h4>
+</div>
 
 ---
 
