@@ -76,22 +76,34 @@
   <a href="https://www.videolan.org/vlc/" target="_blank"><img src="https://img.shields.io/badge/VLC-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white" /></a>
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheesha-Abiman&layout=compact&theme=dracula" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheesha-Abiman&theme=dark&hide_border=false" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+---
+
+<h3 align="center">📊 GitHub Analytics</h3>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Matheesha-Abiman&show_icons=true&theme=radical&border_radius=10&hide_border=false" alt="Abi's GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheesha-Abiman&layout=compact&theme=radical&border_radius=10&hide_border=false" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br>
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheesha-Abiman&theme=radical&border_radius=10&hide_border=false" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matheesha-Abiman&theme=tokyonight&margin-w=15" alt="Trophies" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Matheesha-Abiman&theme=tokyonight&no-bg=true&column=7&margin-w=15" alt="Trophies" />
 </p>
 
 ---
-
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/matheesha-abiman-816b75309/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
