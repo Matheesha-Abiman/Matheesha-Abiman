@@ -80,11 +80,6 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheesha-Abiman&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheesha-Abiman&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheesha-Abiman&theme=radical&border_radius=10" alt="GitHub Streak" width="850" />
 </p>
 
@@ -104,8 +99,6 @@
   <p><i>✨ 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚅𝚒𝚜𝚒𝚝𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎! ✨</i></p>
   <p><strong>Let's build something amazing together!</strong></p>
   <p>Have a nice day! 😉</p>
-  
-  <br>
   
   <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
   
