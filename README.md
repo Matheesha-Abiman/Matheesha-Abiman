@@ -39,18 +39,6 @@
 - 📫 How to reach me: **[matheeshaabi@gmail.com](mailto:matheeshaabi@gmail.com)**
 
 ---
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/abi_man03" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/matheesha-abiman-816b75309/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/mateesha.abi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/abi_man03" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.gg/abiman0132" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://app.slack.com/client/T086UEK6ZGX/D087XQP2D96" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
-</p>
-
----
 <h3 align="left">💻 Tech Stack:</h3>
 <p align="left">
 
@@ -102,14 +90,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Matheesha-Abiman&theme=tokyonight&margin-w=15" alt="Trophies" />
 </p>
 
+---
+
+<h3 align="center">🤝 Connect with me</h3>
 <p align="center">
-  <strong>✨ Thanks for visiting my profile! ✨</strong>
+  <a href="https://linkedin.com/in/matheesha-abiman-816b75309/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
+  <a href="https://twitter.com/abi_man03" target="blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://instagram.com/abi_man03" target="blank"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
+  <a href="https://discord.gg/abiman0132" target="blank"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=5865F2"></a>
+  <a href="mailto:matheeshaabi@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
 </p>
 
-<h2 align="center">
+<div align="center">
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-</h2>
-
-![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572 (1)](https://github.com/user-attachments/assets/e599b0c5-b812-4e11-908a-2bdec8c97c5f)
-
----
+  <br>
+  <p><i>✨ Thanks for visiting! Let's build something amazing together. ✨</i></p>
+  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
+</div>
