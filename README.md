@@ -79,24 +79,15 @@
 ---
 
 <h3 align="center">📊 GitHub Analytics</h3>
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Matheesha-Abiman&show_icons=true&theme=radical&border_radius=10&hide_border=false" alt="Abi's GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheesha-Abiman&layout=compact&theme=radical&border_radius=10&hide_border=false" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br>
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheesha-Abiman&theme=radical&border_radius=10&hide_border=false" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheesha-Abiman&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheesha-Abiman&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheesha-Abiman&theme=radical&border_radius=10" alt="GitHub Streak" width="850" />
+</p>
 
 <p align="center">
   <br>
