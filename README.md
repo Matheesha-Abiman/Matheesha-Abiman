@@ -101,6 +101,14 @@
 <div align="center">
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
   <br>
-  <p><i>✨ Thanks for visiting! Let's build something amazing together. ✨</i></p>
+  <p><i>✨ 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚅𝚒𝚜𝚒𝚝𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎! ✨</i></p>
+  <p><strong>Let's build something amazing together!</strong></p>
+  <p>Have a nice day! 😉</p>
+  
+  <br>
+  
   <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
+  
+  <br>
+  <small>© 2026 Matheesha Abiman</small>
 </div>
