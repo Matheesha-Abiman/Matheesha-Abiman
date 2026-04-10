@@ -3,12 +3,11 @@
 </p>
 
 <div align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Matheesha-Abiman?style=social">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Matheesha-Abiman?style=social">
   <img src="https://komarev.com/ghpvc/?username=matheesha-abiman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <br>
   <img src="https://img.shields.io/badge/Age-23-36BCF7" />
-  <img src="https://img.shields.io/badge/Focus-UI%2FUX%20%26%20Front--End-36BCF7" />
+  <img src="https://img.shields.io/badge/Focus-UI%2FUX%20%26%20Full--Stack-36BCF7" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
 </div>
 
@@ -87,11 +86,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheesha-Abiman&theme=radical&border_radius=10" alt="GitHub Streak" width="850" />
-</p>
-
-<p align="center">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Matheesha-Abiman&theme=tokyonight&no-bg=true&column=7&margin-w=15" alt="Trophies" />
 </p>
 
 ---
