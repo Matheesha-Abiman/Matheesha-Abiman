@@ -84,7 +84,8 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheesha-Abiman&theme=radical&border_radius=10" alt="GitHub Streak" width="850" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheesha-Abiman&theme=github-dark-blue&border_radius=10" 
+       alt="GitHub Streak" width="850" />
 </p>
 
 # 📈 Contribution Graph
