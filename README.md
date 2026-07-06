@@ -87,6 +87,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheesha-Abiman&theme=radical&border_radius=10" alt="GitHub Streak" width="850" />
 </p>
 
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheesha-Abiman&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
 ---
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
