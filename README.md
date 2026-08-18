@@ -81,48 +81,61 @@
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<!-- GitHub Analytics Section -->
+<div align="center">
+  <h2>📈 Activity & Contribution Insights</h2>
+  <p>A statistical overview of my code distribution, productivity rhythms, and repository metrics.</p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheesha-Abiman&theme=github_dark"
-    alt="GitHub Profile Details"
-    width="900"
-  />
-</p>
+  <!-- Profile Details Card (Banner) -->
+  <a href="https://github.com/Matheesha-Abiman">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheesha-Abiman&theme=tokyonight"
+      alt="GitHub Profile Details"
+      width="100%"
+      style="max-width: 860px; border-radius: 12px; margin-bottom: 12px;"
+    />
+  </a>
 
-<br>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheesha-Abiman&theme=github_dark"
-    alt="Repositories Per Language"
-    width="430"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matheesha-Abiman&theme=github_dark"
-    alt="Most Commit Language"
-    width="430"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matheesha-Abiman&theme=github_dark"
-    alt="GitHub Statistics"
-    width="430"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matheesha-Abiman&theme=github_dark&utcOffset=5.5"
-    alt="Productive Time"
-    width="430"
-  />
-</p>
-
+  <!-- 2x2 Clean Grid -->
+  <table border="0" cellpadding="0" cellspacing="8" align="center">
+    <tr>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheesha-Abiman&theme=tokyonight"
+          alt="Repositories Per Language"
+          width="415"
+          style="border-radius: 8px;"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matheesha-Abiman&theme=tokyonight"
+          alt="Most Commit Language"
+          width="415"
+          style="border-radius: 8px;"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matheesha-Abiman&theme=tokyonight"
+          alt="GitHub Statistics"
+          width="415"
+          style="border-radius: 8px;"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matheesha-Abiman&theme=tokyonight&utcOffset=5.5"
+          alt="Productive Time"
+          width="415"
+          style="border-radius: 8px;"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 <h3 align="center">🤝 Connect with me</h3>
