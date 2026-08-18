@@ -84,17 +84,45 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheesha-Abiman&theme=github-dark-blue&border_radius=10" 
-       alt="GitHub Streak" width="850" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheesha-Abiman&theme=github_dark"
+    alt="GitHub Profile Details"
+    width="900"
+  />
 </p>
 
-# 📈 Contribution Graph
+<br>
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheesha-Abiman&theme=github_dark"
+    alt="Repositories Per Language"
+    width="430"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matheesha-Abiman&theme=github_dark"
+    alt="Most Commit Language"
+    width="430"
+  />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheesha-Abiman&theme=tokyo-night&hide_border=true"/>
+<br>
 
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matheesha-Abiman&theme=github_dark"
+    alt="GitHub Statistics"
+    width="430"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matheesha-Abiman&theme=github_dark&utcOffset=5.5"
+    alt="Productive Time"
+    width="430"
+  />
+</p>
+
 
 ---
 <h3 align="center">🤝 Connect with me</h3>
