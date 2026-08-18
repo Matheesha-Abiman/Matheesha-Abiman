@@ -83,12 +83,8 @@
 
 <!-- GitHub Analytics Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20&height=100&section=header&text=📊%20GitHub%20Analytics&fontSize=32&fontAlignY=65&fontColor=ffffff" width="100%" alt="Header" />
-  
-  <p>
-    <code><b>Deep Dark</b></code> &bull; <code><b>Vibrant Highlights</b></code> &bull; <code><b>Live Metrics</b></code>
-  </p>
 
+<h3 align="left">📊 GitHub Analytics:</h3>
   <!-- Banner Card -->
   <a href="https://github.com/Matheesha-Abiman">
     <img
