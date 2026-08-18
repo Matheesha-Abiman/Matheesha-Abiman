@@ -83,54 +83,59 @@
 
 <!-- GitHub Analytics Section -->
 <div align="center">
-  <h2>📈 Activity & Contribution Insights</h2>
-  <p>A statistical overview of my code distribution, productivity rhythms, and repository metrics.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20&height=100&section=header&text=📊%20GitHub%20Analytics&fontSize=32&fontAlignY=65&fontColor=ffffff" width="100%" alt="Header" />
+  
+  <p>
+    <code><b>Deep Dark</b></code> &bull; <code><b>Vibrant Highlights</b></code> &bull; <code><b>Live Metrics</b></code>
+  </p>
 
-  <!-- Profile Details Card (Banner) -->
+  <!-- Banner Card -->
   <a href="https://github.com/Matheesha-Abiman">
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheesha-Abiman&theme=tokyonight"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheesha-Abiman&theme=radical"
       alt="GitHub Profile Details"
       width="100%"
-      style="max-width: 860px; border-radius: 12px; margin-bottom: 12px;"
+      style="max-width: 860px; border-radius: 12px; border: 1px solid #fe428e33; box-shadow: 0 4px 20px rgba(0,0,0,0.6);"
     />
   </a>
 
+  <br><br>
+
   <!-- 2x2 Clean Grid -->
-  <table border="0" cellpadding="0" cellspacing="8" align="center">
+  <table border="0" cellpadding="0" cellspacing="10" align="center">
     <tr>
       <td>
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheesha-Abiman&theme=tokyonight"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheesha-Abiman&theme=radical"
           alt="Repositories Per Language"
           width="415"
-          style="border-radius: 8px;"
+          style="border-radius: 10px; border: 1px solid #fe428e22;"
         />
       </td>
       <td>
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matheesha-Abiman&theme=tokyonight"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matheesha-Abiman&theme=radical"
           alt="Most Commit Language"
           width="415"
-          style="border-radius: 8px;"
+          style="border-radius: 10px; border: 1px solid #fe428e22;"
         />
       </td>
     </tr>
     <tr>
       <td>
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matheesha-Abiman&theme=tokyonight"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matheesha-Abiman&theme=radical"
           alt="GitHub Statistics"
           width="415"
-          style="border-radius: 8px;"
+          style="border-radius: 10px; border: 1px solid #fe428e22;"
         />
       </td>
       <td>
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matheesha-Abiman&theme=tokyonight&utcOffset=5.5"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matheesha-Abiman&theme=radical&utcOffset=5.5"
           alt="Productive Time"
           width="415"
-          style="border-radius: 8px;"
+          style="border-radius: 10px; border: 1px solid #fe428e22;"
         />
       </td>
     </tr>
